@@ -1,3 +1,5 @@
+![](https://upstash.com/blog/rag-chatbot-upstash-openai-clerk-nextjs/opengraph-image)
+
 <p>
   <a href="#introduction"><strong>Introduction</strong></a> ·
   <a href="#one-click-deploy"><strong>One-click Deploy</strong></a> ·
